@@ -1,0 +1,17 @@
+<form method="POST" enctype="multipart/form-data">
+
+    <label>Chọn ảnh để dự đoán:</label><br><br>
+    <input type="file" name="image" accept="image/*" required>
+    <br><br>
+
+    <button type="submit">Predict</button>
+</form>
+
+{% if img_base64 %}
+<h3>Ảnh sau khi xoá phông:</h3>
+<img src="{{ img_base64 }}" style="max-width:300px;">
+{% endif %}
+
+{% if prediction %}
+<h3>Dự đoán: {{ prediction }}</h3>
+{% endif %}
