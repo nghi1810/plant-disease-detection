@@ -1,7 +1,8 @@
 # plant-disease-detection
 AI-based plant disease detection using deep learning and computer vision
-<img width="1396" height="547" alt="83f3f55e7f42fe1ca753" src="https://github.com/user-attachments/assets/ea185e37-17a9-4d68-9882-eb24e722d139" />
-<img width="720" height="1338" alt="446dacf026eca7b2fefd" src="https://github.com/user-attachments/assets/6ca0ffc5-26a8-4b7d-b4b7-bf191eff3dac" />
+<img width="1257" height="738" alt="78cfaf46245aa504fc4b" src="https://github.com/user-attachments/assets/fcd83a12-8baa-4658-8b9f-dcc36dd23b84" />
+<img width="2560" height="1250" alt="7062b5b13eadbff3e6bc" src="https://github.com/user-attachments/assets/368aa1a9-bcec-43e3-ae63-8fa3aae9ecc7" />
+
 Collected and organized plant leaf image datasets for healthy and diseased crops
 Applied image preprocessing techniques such as resizing, normalization, and background cleaning
 Used data augmentation methods including rotation, flipping, zooming, and brightness adjustment to improve model generalization
