@@ -1,0 +1,13 @@
+flask==3.0.3
+tensorflow==2.15.0
+torch==2.2.2
+torchvision==0.17.2
+numpy==1.26.4
+pillow==10.3.0
+opencv-python==4.10.0.84
+rembg==2.0.57
+tqdm==4.66.4
+qrcode==7.4.2
+torchsummary==1.5.1
+pandas==2.2.2
+matplotlib==3.9.0
